@@ -1,1 +1,1 @@
-This repository has all my Linux practise tasks from GUVI
+This repository has all my practise tasks from GUVI
