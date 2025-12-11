@@ -1,0 +1,11 @@
+#!/bin/bash
+sudo apt update 
+sudo apt upgrade -y
+sudo apt install docker.io -y
+sudo apt install awscli --classic -y
+sudo snap install kubectl --classic -y
+sudo apt install git -y
+docker --version
+aws --version
+kubectl version --client
+git --version
